@@ -1,44 +1,44 @@
-📄 Privacy Policy for URL Player Ultimate
-Last Updated: [25/06/2025]
+Privacy Policy – URL Player Ultimate
+Effective Date: [26/06/2025]
 
-1. Introduction
-Welcome to URL Player Ultimate. Your privacy is important to us. This Privacy Policy explains how we handle user data within the app.
+At URL Player Ultimate, we respect your privacy and are committed to protecting your personal data. This Privacy Policy explains what data the app uses, how it is stored, and your rights as a user.
 
-2. Data We Collect
-We do not collect or transmit any personal information to our servers or any third parties.
+🔐 What Data We Collect
+We do not collect any personal information or send any data to external servers. The app does not use any form of tracking or analytics.
 
-The app may store the following data locally on your device only:
+However, for functionality, the app may store the following locally on your device:
 
-Video URLs entered or opened by you
+Video links (URLs) you enter or play
 
-Your playlists and watch history
+Playlists you create
 
-Player settings and preferences
+Playback history and preferences
 
-3. How Data is Stored
-All data is saved locally on your device. It is not uploaded, shared, or transmitted to any remote server.
+This data is only stored on your device and never shared.
 
-4. User Control & Data Deletion
-You are always in control of your data. You can:
+🗑️ How You Control Your Data
+You remain in full control of your saved data. You can:
 
-Delete individual URLs or history from within the app
+Manually delete links, playlists, or history from within the app
 
-Clear all app data by using the app’s built-in reset/clear functions or through your device’s settings
+Clear all app data using your device’s system settings
 
-We do not retain any backups of your data. Once deleted, the data is permanently removed from your device.
+The app does not back up or transfer your data anywhere — once you delete it, it’s gone for good.
 
-5. Permissions
-URL Player Ultimate may request the following permissions:
+📱 Permissions We Use
+To give you the best experience, the app may request:
 
-Internet Access: To stream video content from online URLs.
+Internet Access – to stream videos from URLs
 
-Storage Access (Optional): To save playlist files or read from your device’s storage if you choose to use that feature.
+Storage Access (optional) – to read/write playlist files if you choose to use that feature
 
-6. No Third-Party Sharing
-We do not share, sell, or disclose your information to any third parties. Your usage data and saved links stay on your device.
+We do not access your personal files or media unless you explicitly choose to interact with them via the app.
 
-7. Contact Us
-If you have any questions or concerns about your privacy or this policy, feel free to contact us at:
+🤝 Third-Party Services
+URL Player Ultimate does not use third-party services that collect or process user data, such as analytics, ad networks, or crash reporting tools.
+
+🔄 Policy Updates
+We may update this Privacy Policy from time to time. Any changes will be clearly reflected in the app and on our listing.
+
+If you have questions or feedback about this policy, contact us at:
 📧 [nullbytes.co@gmail.com]
-
-This policy may be updated occasionally. We recommend checking this page periodically for any changes.
